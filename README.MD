@@ -9,7 +9,7 @@
         - Media Screen At (600px)
         Time Taken to Complete This Page- 11Hrs
 ## Product Design Landing Page Screenshots
-![Screenshot](Screenshots/Product%20Design%20Landing%20Page%2001.png)
-![Screenshot](Screenshots/Product%20Design%20Landing%20Page%2002.png)
+![Screenshot](./Screenshots/Product%20Design%20Landing%20Page%2001.png)
+![Screenshot](./Screenshots/Product%20Design%20Landing%20Page%2002.png)
 ![Screenshot](./Screenshots/Product%20Design%20Landing%20Page%2003.png)
 ![Screenshot](./Screenshots/Product%20Design%20Landing%20Page%2004.png)
